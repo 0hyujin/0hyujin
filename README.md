@@ -31,8 +31,7 @@ Nice to see ya:) I'm yujin
 
 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
