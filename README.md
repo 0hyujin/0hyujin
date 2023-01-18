@@ -29,12 +29,12 @@ Nice to see ya:) I'm yujin
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"></a>-->
 
+<br> 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin)](https://github.com/0hyujin/github-readme-stats)-->
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin)](https://github.com/0hyujin/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin&count_private=true&layout=compact)
 
 
 <!--
