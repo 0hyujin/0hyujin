@@ -33,9 +33,7 @@ Nice to see ya:) I'm yujin
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin)](https://github.com/0hyujin/github-readme-stats)-->
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin&count_private=true&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin&count_private=true&langs_count=7&layout=compact)
 
 <!--
 **0hyujin/0hyujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
