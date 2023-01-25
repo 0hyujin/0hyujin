@@ -28,14 +28,20 @@ Nice to see ya:) I'm yujin
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"></a>-->
-
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0hyujin&show_icons=true&locale=en&layout=compact" alt="0hyujin" /></p>
+<br>
 <br> 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin)](https://github.com/0hyujin/github-readme-stats)-->
+<br>
+<br> 
+<br>
+<br>
+<br> 
+<br>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0hyujin&count_private=true&langs_count=12&layout=compact)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyuj2001)](https://solved.ac/ohyuj2001/)
+<img src="http://mazandi.herokuapp.com/api?handle=ohyuj2001&theme=warm"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0hyujin&show_icons=true&locale=en&layout=compact" alt="0hyujin" /></p><br>
 
 <!--
 **0hyujin/0hyujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
