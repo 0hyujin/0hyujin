@@ -1,23 +1,26 @@
-## Hi there 👋
-Nice to see ya:) I'm yujin
+## Nice to see ya:) I'm yujin 👋
 
-## Language
+
+#### Language
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-A5915F?style=flat-square&logo=OpenJDK&logoColor=white"></a>
-
-## Framework
-<!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"></a>-->
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"></a>
 
+<!--
+## Framework
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"></a>-->
 
 
-## Tool
+
+#### Tools
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"></a>
