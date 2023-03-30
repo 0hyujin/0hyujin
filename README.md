@@ -46,7 +46,7 @@
 <br>
 <br>
 <br> 
-
+<br> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyuj2001)](https://solved.ac/ohyuj2001/)
 <img src="http://mazandi.herokuapp.com/api?handle=ohyuj2001&theme=warm"/>
