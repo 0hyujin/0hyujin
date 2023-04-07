@@ -14,7 +14,7 @@
 <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white" /></a> -->
 
 
-#### Tools & Framework
+#### Tool & Framework
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
