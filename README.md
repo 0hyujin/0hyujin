@@ -45,17 +45,11 @@
   <br>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0hyujin&show_icons=true&locale=en&layout=compact" alt="0hyujin" /></p>
-<br>
-<br> 
-<br>
-<br> 
-<br>
-<br>
-<br> 
-<br> 
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyuj2001)](https://solved.ac/ohyuj2001/)
-<img src="http://mazandi.herokuapp.com/api?handle=ohyuj2001&theme=warm"/>
+<!--<img src="http://mazandi.herokuapp.com/api?handle=ohyuj2001&theme=warm"/>
 
 
 <!--
