@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b9e0fd&height=200&section=header&text=Hi%20I'm%20Yujin&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 
 ### ✨ **Activity**
-`2021~2022` **대학교 컴퓨터공학 학생회** <br>
+`2021` `2022` **대학교 컴퓨터공학 학생회** <br>
 `2022` **멋쟁이사자처럼 10기 프론트엔드 아기사자** <br>
 `2023` **멋쟁이사자처럼 11기 백엔드 아기사자** <br>
 `2024` **멋쟁이사자처럼 12기 백엔드 운영진** <br>
