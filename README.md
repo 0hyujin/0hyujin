@@ -2,12 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b9e0fd&height=200&section=header&text=Hi%20I'm%20Yujin&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 
 ### ✨ **Activity**
-**2021~2022 대학교 컴퓨터공학 학생회** <br>
-**2022 멋쟁이사자처럼 10기 프론트엔드 아기사자** <br>
-**2023 멋쟁이사자처럼 11기 백엔드 아기사자** <br>
-**2024 멋쟁이사자처럼 12기 백엔드 운영진** <br>
-**2024 스크래치 cos 3급 강사** <br>
+`2021~2022` **대학교 컴퓨터공학 학생회** <br>
+`2022` **멋쟁이사자처럼 10기 프론트엔드 아기사자** <br>
+`2023` **멋쟁이사자처럼 11기 백엔드 아기사자** <br>
+`2024` **멋쟁이사자처럼 12기 백엔드 운영진** <br>
+`2024` **스크래치 cos 3급 강사** <br>
+<!--`2025.04 ~ 2025.07` **키움증권 디지털 아카데미 1기** -->
 <br>
+
 ### 🛠 **Available Skills**
 #### 🗣️ **Language**
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
@@ -44,12 +46,13 @@
 <br>
 
 ### 🪪 **License**
-SW코딩지도사 1급  `2024` <br>
-운전면허 2종 보통  `2024` <br>
-OPIc IH  `2024` <br>
-정보처리기사  `2024` <br>
-ADsP  `2025` <br>
-SQLD  `2025` <br>
+![정보처리기사](https://img.shields.io/badge/정보처리기사-gray)
+![ADsP](https://img.shields.io/badge/ADsP-gray)
+![SQLD](https://img.shields.io/badge/SQLD-gray)
+<br>
+![SW코딩지도사 1급](https://img.shields.io/badge/SW코딩지도사_1급-gray)
+![운전면허 2종 보통](https://img.shields.io/badge/운전면허_2종_보통-gray)
+![OPIc IH](https://img.shields.io/badge/OPIc_IH-gray)
 
 
 
