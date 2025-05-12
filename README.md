@@ -47,6 +47,7 @@
 <br>
 
 ### 🪪 **License**
+<!-- ![정보보안기사](https://img.shields.io/badge/정보보안기사-gray) -->
 ![정보처리기사](https://img.shields.io/badge/정보처리기사-gray)
 ![ADsP](https://img.shields.io/badge/ADsP-gray)
 ![SQLD](https://img.shields.io/badge/SQLD-gray)
